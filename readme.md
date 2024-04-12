@@ -2,6 +2,8 @@
 
 This application runs on port 8080 by default. You can change the port by passing the `--server.port` argument to the application.
 
+### Running the app
+`java -jar scratch-game.jar --config <your-config-file> --betting-amount <your-betting-amount>`
 
 ## Description ##
 
